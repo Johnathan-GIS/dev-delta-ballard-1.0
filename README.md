@@ -53,3 +53,9 @@ new-dev-ballard/
 │   └── style.css           # Custom stylesheets
 ├── index.html              # Homepage & main dashboard
 └── README.md               # Project documentation
+
+STATIC JSON ──fetch()──┐
+                       │
+AUTH (Credentials) ────┼──→ APP STATE object ──→ sessionStorage ──→ DOM Rendering
+                       │           ↑
+USER CRUD (Inputs) ────┘
