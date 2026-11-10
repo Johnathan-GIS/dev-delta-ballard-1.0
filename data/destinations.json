@@ -1,0 +1,57 @@
+
+[
+    {
+        "id": 1,
+        "title": "Albuquerque",
+        "category": "Southwest",
+        "tag": "Exploration",
+        "description": "See the sites of Albuquerque, Phoenix, and Las Vegas.",
+        "url": "https://www.visitalbuquerque.org",
+        "image": "images/albuquerque.jpg",
+        "author": "Johnathan Ballard",
+        "date": "Oct 15, 2026",
+        "comments": [
+            "User123: Beautiful hot air balloons!"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Hershey Park",
+        "category": "Northeast",
+        "tag": "Family",
+        "description": "Discover New York City, Boston, and Philadelphia.",
+        "url": "https://www.hersheypa.com/",
+        "image": "images/hershey-park.jpg",
+        "author": "AdminManager",
+        "date": "Sep 28, 2026",
+        "comments": [
+            "ChocolateLover: Great theme park!"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Springfield, Missouri",
+        "category": "Midwest",
+        "tag": "Nature",
+        "description": "Experience Chicago, St. Louis, Minneapolis, and Detroit.",
+        "url": "https://www.springfieldmo.org/",
+        "image": "images/springfield-missouri.jpg",
+        "author": "TravelGuide",
+        "date": "Aug 12, 2026",
+        "comments": []
+    },
+    {
+        "id": 4,
+        "title": "Outer Banks",
+        "category": "Southeast",
+        "tag": "Adventure",
+        "description": "Explore Atlanta, Nashville, Miami, and Charleston.",
+        "url": "https://www.outerbanks.org/",
+        "image": "images/outer-banks-image.jpg",
+        "author": "Johnathan Ballard",
+        "date": "Jul 04, 2026",
+        "comments": [
+            "OceanFan: Beautiful beaches!"
+        ]
+    }
+]
